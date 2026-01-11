@@ -1,0 +1,9 @@
+export { Presentation } from './Presentation';
+export { Slide } from './Slide';
+export { SlideItemComponent } from './SlideItem';
+export { CodeBlock } from './CodeBlock';
+export { DataTable } from './DataTable';
+export { Controls } from './Controls';
+export { Outline } from './Outline';
+export { KeyboardShortcuts } from './KeyboardShortcuts';
+export { BackgroundEffects } from './BackgroundEffects';
